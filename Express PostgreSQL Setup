@@ -1,0 +1,4 @@
+mkdir express-pg-crud
+cd express-pg-crud
+npm init -y
+npm install express pg dotenv
